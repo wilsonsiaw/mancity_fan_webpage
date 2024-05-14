@@ -117,3 +117,21 @@ h6 {
     font-size: 20px;
     margin-bottom: 15px;
 }
+
+.main__events {
+    text-align: center;
+}
+
+.event__links li {
+    list-style: none;
+    margin-bottom: 10px;
+}
+
+.event__links li a {
+    text-decoration: none;
+    color: #001838;
+    font-family: "Encode Sans Condensed", sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
