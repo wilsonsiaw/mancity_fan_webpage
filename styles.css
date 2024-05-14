@@ -135,3 +135,16 @@ h6 {
     font-weight: 700;
     text-transform: uppercase;
 }
+
+.gallery {
+    padding: 50px;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 40px;
+}
+
+.gallery img {
+    width: 500px;
+}
